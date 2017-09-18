@@ -1,0 +1,10 @@
+C:\Users\thuchanh\Documents\GitHub\Hello-World\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\thuchanh\Documents\GitHub\Hello-World\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\thuchanh\Documents\GitHub\Hello-World\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\thuchanh\Documents\GitHub\Hello-World\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\thuchanh\Documents\GitHub\Hello-World\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\thuchanh\Documents\GitHub\Hello-World\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+C:\Users\thuchanh\Documents\GitHub\Hello-World\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\thuchanh\Documents\GitHub\Hello-World\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\thuchanh\Documents\GitHub\Hello-World\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\thuchanh\Documents\GitHub\Hello-World\Hello World\Hello World\obj\Debug\Hello_World.FrmHelloWorld.resources
